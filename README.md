@@ -25,3 +25,5 @@ We look at prepared $|00>$ and observe the measured states $|00>$ and $|01>$ and
 $P(|00> \rightarrow |00>) - P(|00> \rightarrow |01>)$
 
 $P(|00> \rightarrow |00>) - P(|00> \rightarrow |10>)$
+
+To explore plas a simple example [https://fieldofnodes.github.io/QubitCrossTalk/](https://fieldofnodes.github.io/QubitCrossTalk/)
