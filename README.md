@@ -1,4 +1,4 @@
-# 20221121_CrossTalkExploration
+# Readout Noise Characterisation
 
 ## Qubits on the Rigetti M3
 A series of measurement experiments was conducted on the Rigetti M3 machine. Starting with qubit 6, qubit 7 was selected and the par formed a circuit. No gates other than those needed to compute the computation basis were used to execute and then measure the ciruit. Once this was completed the same was done for qubt 6 and 0, and for qubit 6 and qubit 1, and again unril qubit 40.
