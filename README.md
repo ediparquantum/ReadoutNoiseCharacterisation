@@ -26,4 +26,4 @@ $P(|00> \rightarrow |00>) - P(|00> \rightarrow |01>)$
 
 $P(|00> \rightarrow |00>) - P(|00> \rightarrow |10>)$
 
-To explore please a simple example [https://fieldofnodes.github.io/QubitCrossTalk/](https://fieldofnodes.github.io/QubitCrossTalk/)
+To explore please a simple example [https://ediparquantum.github.io/ReadoutNoiseCharacterisation/](Doc)
